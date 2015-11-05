@@ -30,3 +30,5 @@ RUN yum clean -y all
 
 #Open port 80,443
 EXPOSE 80 443
+
+#Test trigger
