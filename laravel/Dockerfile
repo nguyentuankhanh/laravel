@@ -33,5 +33,3 @@ VOLUME ["/var/www/html"]
 
 #Open port 80,443
 EXPOSE 80 443
-
-#Test trigger
